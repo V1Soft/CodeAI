@@ -13,5 +13,5 @@ The VectorOne Software Artificial Intelligence Project
 - [ ] **Human Interface**
   - *Help Wanted!*
 
-- [ ] ~~**Take over the World!!!** -- Self-explanatory~~
-  - ~~No help needed, I have it covered.~~
+- [ ] ~~**Take over the World!!!**~~ -- Self-explanatory
+  - No help needed, I have it covered.
