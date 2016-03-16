@@ -13,7 +13,6 @@ The VectorOne Software Artificial Intelligence Project
   - Assigned To @disorientedperson
 
 - [ ] **TEA** (*Trial, Error, and Arithmatic*) **Script** -- For Basic Logic Overlay and Storage
-  - *Help Wanted!*
 - Suggested TEA Format:
 ```
 = key value
@@ -21,6 +20,8 @@ The VectorOne Software Artificial Intelligence Project
 = key !value
 : key (value !value2)
 ```
+  - Assigned To @ecoh70
+  - *Help Wanted!*
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
