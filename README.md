@@ -15,7 +15,7 @@ The VectorOne Software Artificial Intelligence Project
 
 - [ ] **TEA** (*Trial, Error, and Arithmatic*) **Script** -- For Basic Logic Overlay and Storage
   - Assigned To @ecoh70
-  - *Help Wanted!* -- disgrace to @DaVinci789 (*Jaden*)
+  - *Help Wanted!* -- disgrace to @DaVinci789
 - Suggested TEA Format:
 ```
 example[
