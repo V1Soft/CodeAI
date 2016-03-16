@@ -31,6 +31,7 @@ example[
   - Prefix notation
   - M-expressions -- *subject to change*
 - **Differences from LISP:**
+  - Close to machine code
   - M-expressions -- *subject to change*
   - Duck Typing
   - Not Object-oriented
