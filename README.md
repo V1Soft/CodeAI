@@ -16,10 +16,10 @@ The VectorOne Software Artificial Intelligence Project
   - *Help Wanted!*
 - Suggested TEA Format:
 ```
-this = value
-this : (value)
-this = !value
-this : (value !value2)
+= key value
+: key (value)
+= key !value
+: key (value !value2)
 ```
 
 - [ ] **Human Interface**
