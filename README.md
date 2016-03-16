@@ -19,7 +19,7 @@ The VectorOne Software Artificial Intelligence Project
 this = value
 this : (value)
 this = !value
-this : !(value)
+this : (value !value2)
 ```
 
 - [ ] **Human Interface**
