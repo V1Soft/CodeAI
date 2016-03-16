@@ -33,7 +33,7 @@ example[
   - M-expressions -- *subject to change*
   - Duck Typing
   - Not Object-oriented
-  - Less functions, more data -- to focus on the learning aspect of AI
+  - Less functions, more data (*Data-oriented*) -- to focus on the learning aspect of AI
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
   - *Help Wanted!*
