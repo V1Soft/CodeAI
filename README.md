@@ -1,5 +1,6 @@
 # CodeAI
 The VectorOne Software Artificial Intelligence Project
+<br>
 *This project is early in development and help would be greatly appreciated.*
 ----
 <br>
