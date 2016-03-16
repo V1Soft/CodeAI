@@ -20,8 +20,8 @@ The VectorOne Software Artificial Intelligence Project
 = key !value
 : key (value !value2)
 ```
-  - Assigned To @ecoh70
-  - *Help Wanted!*
+    - Assigned To @ecoh70
+    - *Help Wanted!*
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
