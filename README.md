@@ -27,6 +27,7 @@ example[
 ]
 ```
 - **Key Aspects:**
+  - Close to machine code
   - Prefix notation
   - M-expressions -- *subject to change*
 - **Differences from LISP:**
