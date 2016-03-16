@@ -18,13 +18,16 @@ The VectorOne Software Artificial Intelligence Project
   - *Help Wanted!*
 - Suggested TEA Format:
 ```
-= key value
-: key (value)
-= key !value
+example[
+= key value;
+: key (value);
+= key !value;
 : key (value !value2)
+]
 ```
 - Key Aspects:
   - Prefix notation
+  - Partial M-expressions
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
