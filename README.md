@@ -2,7 +2,6 @@
 The VectorOne Software Artificial Intelligence Project
 ----
 *This project is early in development and help would be greatly appreciated.*
-----
 <br>
 **If you are intrested in contributing to this project, contact *software.vector1@gmail.com* or start a pull request.**
 <br>
