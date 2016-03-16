@@ -19,17 +19,21 @@ The VectorOne Software Artificial Intelligence Project
 - Suggested TEA Format:
 ```
 example[
-= key value;
-: key (value);
-= key !value;
-: key (value !value2)
+[= key value]
+[= key !value]
+[: key (value !value2)]
+[+ num num2]
+[- num num2]
 ]
 ```
-- Key Aspects:
+- **Key Aspects:**
   - Prefix notation
-  - Partial M-expressions
-  - Semi-colon Deliminator
-
+  - M-expressions
+- **Differences from LISP:**
+  - M-expressions -- *subject to change*
+  - Duck Typing
+  - Not Object-oriented
+  - Less functions, more data
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
   - *Help Wanted!*
