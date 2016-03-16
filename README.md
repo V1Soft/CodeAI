@@ -6,8 +6,9 @@ The VectorOne Software Artificial Intelligence Project
 *This project is early in development and help would be greatly appreciated.*
 <br>
 <br>
-- [ ] **Human Language Parser** (*English*)
+- [ ] **Human Language Parser** (*English, Multi-Language*)
   - Assigned To @ecoh70
+  - *Help Wanted!*
 
 - [ ] **Basic Functions** (*Including Language functions such as Capitalize() and Pluralize()*)
   - Assigned To @disorientedperson
