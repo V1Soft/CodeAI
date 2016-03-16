@@ -10,7 +10,7 @@ The VectorOne Software Artificial Intelligence Project
   - Assigned To @ecoh70
 
 - [ ] **Basic Functions** (*Including Language functions such as Capitalize() and Pluralize()*)
-  - *Help Wanted!*
+  - Assigned To @disorientedperson
 
 - [ ] **TEA** (*Trial, Error, and Arithmatic*) **Script** -- For Basic Logic Overlay and Storage
   - *Help Wanted!*
