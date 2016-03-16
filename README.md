@@ -23,6 +23,8 @@ The VectorOne Software Artificial Intelligence Project
 = key !value
 : key (value !value2)
 ```
+- Key Aspects:
+  - Prefix notation
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
