@@ -28,6 +28,7 @@ example[
 - Key Aspects:
   - Prefix notation
   - Partial M-expressions
+  - Semi-colon Deliminator
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
