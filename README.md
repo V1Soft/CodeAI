@@ -28,7 +28,7 @@ example[
 ```
 - **Key Aspects:**
   - Prefix notation
-  - M-expressions
+  - M-expressions -- *subject to change*
 - **Differences from LISP:**
   - M-expressions -- *subject to change*
   - Duck Typing
