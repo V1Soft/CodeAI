@@ -25,6 +25,8 @@ The VectorOne Software Artificial Intelligence Project
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
+  - *Help Wanted!*
+- This is a large project. Any help is accepted.
 
 - [ ] ~~**Take over the World!!!**~~ -- Self-explanatory
   - No help needed, I have it covered.
