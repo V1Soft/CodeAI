@@ -14,6 +14,13 @@ The VectorOne Software Artificial Intelligence Project
 
 - [ ] **TEA** (*Trial, Error, and Arithmatic*) **Script** -- For Basic Logic Overlay and Storage
   - *Help Wanted!*
+  - Suggested TEA Format:
+  - *```
+this = value
+this : (value)
+this = !value
+this : !(value)
+  - ```
 
 - [ ] **Human Interface**
   - Assigned To @JacobA1006
