@@ -32,6 +32,7 @@ example[
   - M-expressions -- *subject to change*
 - **Differences from LISP:**
   - Close to machine code
+  - Has C aspects
   - M-expressions -- *subject to change*
   - Duck Typing
   - Not Object-oriented
