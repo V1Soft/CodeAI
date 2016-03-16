@@ -1,6 +1,8 @@
 # CodeAI
 The VectorOne Software Artificial Intelligence Project
 <br>
+---
+<br>
 **If you are intrested in contributing to this project, contact *software.vector1@gmail.com* or start a pull request.**
 <br>
 - [ ] **Human Language Parser** (*English*)
